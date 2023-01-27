@@ -5,7 +5,7 @@ import Pag from '../assets/ssay/pag.png'
 
 const ssay = () => {
   return (
-    <div className='max-w-[1240px] mx-auto mt-20'>
+    <div className='max-w-[1240px] mx-auto mt-36'>
         <div>
             <p className='text-xs text-slate-400 font-semibold'>TOP STUDIYING</p>
             <p className='text-3xl'>Our students say</p>
